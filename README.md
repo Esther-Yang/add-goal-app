@@ -68,7 +68,7 @@ import styles from "./Button.module.css";
 
 # Summary
 
-| Method            | Scope | class name                                                               |
+| Method            | Scope | Class Name                                                               |
 | :---------------- | :---: | :----------------------------------------------------------------------- |
 | CSS               |  ❌   | need to set unique class name by ourselves                               |
 | Styled Components |   ✔   | generate unique string (E.g. xxx_xxx_xxx)                                |
